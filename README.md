@@ -1,5 +1,5 @@
 # Group-24
-We added three folders for three questions.Inside the folders, there are files which contain answers in python, kotlin, and js programming languages.
+We added a folder for question 1.Inside the folder, there are files which contain answers in python, kotlin, and js programming languages.
 
 -Question 1 You are building a hotel booking system.Using your knowledge in data structure,design a system that allows you to store room reservations where each room number maps to the guests name & check in dates.
 
